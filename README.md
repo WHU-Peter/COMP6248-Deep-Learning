@@ -6,3 +6,4 @@
 3. 实验3+exercise 已更新
 4. 实验4+exercise 已更新
 5. 实验5+exercise 已更新
+6. 实验6+exercise 已更新
